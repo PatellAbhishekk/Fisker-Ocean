@@ -1,4 +1,4 @@
-#FISKER OCEAN
+# FISKER OCEAN
 
 ![mockup](mockup.png)
 
